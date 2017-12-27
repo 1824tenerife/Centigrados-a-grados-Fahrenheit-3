@@ -1,8 +1,8 @@
 # Centigrados-a-grados-Fahrenheit-3
-====================================
+===============================================
 
 Práctica a Entregar UT 03
--------------------------
+-----------------------------------
 
 En estas dos practicas nos convierte de grados centigrados a grados Fahrenheit.
 La clase Scanner de Java provee métodos para leer valores de entrada
